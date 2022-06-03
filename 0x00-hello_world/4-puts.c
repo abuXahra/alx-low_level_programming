@@ -3,6 +3,14 @@ include <stdio.h>
 
 int main(void)
 {
-	putsi("Programming is like building a multilingual puzzle\n");
+
+	/**
+	 * main - Entry point
+	 *
+	 * Return: Always 0 (Success)
+	 */
+
+	putsi("\"Programming is like building a multilingual puzzle");
 	return 0;	
+
 }
