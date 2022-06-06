@@ -24,7 +24,7 @@ int main(void)
 	}
 	if (n == 0)
 	{
-		printf("and is 0 %d\n", n);
+		printf("Last digit of %d is %d and is 0 %d\n", n, n % 0);
 	}
 	return (0);
 }
