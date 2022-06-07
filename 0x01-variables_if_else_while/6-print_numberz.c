@@ -1,5 +1,5 @@
 /*
- * File: 9-print_comb.c
+ * File: 6-print_numberz.c
  * Auth: Isah Abdulmumin
  */
 
