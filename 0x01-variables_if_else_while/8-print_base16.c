@@ -1,5 +1,5 @@
 /*
- * File: 6-print_numberz.c
+ * File: 8-print_base16.c
  * Auth: Isah Abdulmumin
  */
 
@@ -17,7 +17,7 @@ int main(void)
 
 	char letter;
 
-	for (num = 0; num < 16; num++)
+	for (num = 0; num < 10; num++)
 		putchar((num % 10) + '0');
 
 	for (letter = 'a'; letter <= 'f'; letter++)
