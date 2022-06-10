@@ -1,24 +1,6 @@
-Skip to content
-bdbaraban
-/
-holbertonschool-low_level_programming
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-More
-holbertonschool-low_level_programming/0x01-variables_if_else_while/100-print_comb3.c
-
-Brennan D Baraban Updated documentation + cleaned code
- History
- 0 contributors
-36 lines (29 sloc)  585 Bytes
 /*
  * File: 100-print_comb3.c
- * Auth: Brennan D Baraban
+ * Auth: Isah Abdulmumin
  */
 
 #include <stdio.h>
