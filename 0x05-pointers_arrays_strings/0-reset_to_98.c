@@ -3,7 +3,6 @@
  * Auth: Isah Abdulmumin
  */
 
-#include <main.h>
 #include <stdio.h>
 
 /**
